@@ -1,4 +1,2 @@
-downloads
+downloads for http://downloads.jslink.org
 =========
-
-http://downloads.jslink.org
